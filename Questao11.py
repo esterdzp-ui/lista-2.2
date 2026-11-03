@@ -1,0 +1,7 @@
+print("=====================")
+print("  MENU DO JOGO   ")
+print("=====================")
+print(" 1- Iniciar Jogo ")
+print(" 2- Carregar ")
+print(" 3- Sair ")
+print("=====================")
